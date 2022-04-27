@@ -1043,10 +1043,15 @@ transform: scale(1);
 }
 .widget-color ul li.color-white:before {background: #f7f2f2;}
 .widget-color ul li.color-black:before {background: #000000;}
-.widget-color ul li.color-3:before {background: #fe5858;}
-.widget-color ul li.color-4:before {background: #00b2ee;}
-.widget-color ul li.color-5:before {background: #00eeb3;}
-.widget-color ul li.color-6:before {background: #8dc63f;}
+.widget-color ul li.color-lila:before {background: #ccccff;}
+.widget-color ul li.color-pink:before {background: #ffc0cb;}
+.widget-color ul li.color-military:before {background: #2d572c;}
+.widget-color ul li.color-purple:before {background: #aa07b5;}
+.widget-color ul li.color-red:before {background: #c81d11;}
+.widget-color ul li.color-dark-blue:before {background: #252850;}
+.widget-color ul li.color-blue:before {background: #0000ff;}
+.widget-color ul li.color-tur-blue:before {background: #122562;}
+.widget-color ul li.color-mint-green:before {background: #ade8bf;}
 /* -------------------------------------
     9.10 Widget operating system
 ------------------------------------- */
