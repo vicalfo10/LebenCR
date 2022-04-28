@@ -631,5 +631,37 @@ NOTE: This is Header style file. All Header related style included in this file.
 }
 
 }
+.header-social li {
+  display: inline-block;
+}
+.header-social li + li {
+  margin-left: 10px;
+} 
+.header-social li a {
+  border: 1px solid rgb(153, 153, 153);
+  border-radius: 50%;
+  color: #999;
+  display: block;
+  height: 30px;
+  text-align: center;
+  width: 30px;
+}
+.header-social li a i {
+  line-height: 28px;
+}
+.whatsapp:hover {
+  background: #25D366;
+}
+.header-social li a:hover {
+  border-color: transparent;
+  color: #fff; 
+}
+.header-social-2 {
+  padding: 6px 0;
+}
+.header-social-2 li a {
+  border: 0 none;
+  border-radius: 0;
+}
 
 
