@@ -1782,6 +1782,60 @@ table {width: 100%}
   color: #666;
 }
 /* -------------------------------------
+    14.1 Contact Phone
+------------------------------------- */
+.contact-phone {
+  padding: 40px 20px 30px;
+  text-align: center;
+  min-height: 230px;
+}
+.contact-phone i {
+  border-radius: 50%;
+  box-shadow: 0 0 4px rgba(0, 0, 0, 0.1);
+  color: #999999;
+  font-size: 30px;
+  height: 60px;
+  line-height: 60px;
+  margin-bottom: 30px;
+  text-align: center;
+  width: 60px;
+  transition: all 0.3s ease 0s;
+}
+.contact-phone:hover i {
+  background: #25d366 none repeat scroll 0 0;
+  color: #fff;
+}
+.contact-phone h6 {
+  color: #666;
+}
+/* -------------------------------------
+    14.1 Contact Mail
+------------------------------------- */
+.contact-mail {
+  padding: 40px 20px 30px;
+  text-align: center;
+  min-height: 230px;
+}
+.contact-mail i {
+  border-radius: 50%;
+  box-shadow: 0 0 4px rgba(0, 0, 0, 0.1);
+  color: #999999;
+  font-size: 30px;
+  height: 60px;
+  line-height: 60px;
+  margin-bottom: 30px;
+  text-align: center;
+  width: 60px;
+  transition: all 0.3s ease 0s;
+}
+.contact-mail:hover i {
+  background: #4285f4 none repeat scroll 0 0;
+  color: #fff;
+}
+.contact-mail h6 {
+  color: #666;
+}
+/* -------------------------------------
     14.2 Google Map
 ------------------------------------- */
 #googleMap {
