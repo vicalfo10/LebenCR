@@ -473,6 +473,23 @@ a.button.button-black span {
   color: #fff;
   font-weight: normal;
 }
+a.button.button-green {
+  border: 0 none;
+  border-radius: 3px;
+  box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.03) inset;
+  cursor: pointer;
+  display: inline-block;
+  margin-right: 10px;
+  overflow: hidden;
+  padding: 0;
+  position: relative;
+  background-color: #575757;
+  color: #4FC1F0;
+  font-size: 15px;
+}
+a.button.button-green:hover {
+  background-color: #25D366;
+}
 a.button-border span {
   border: 0 none;
   border-radius: 3px;
